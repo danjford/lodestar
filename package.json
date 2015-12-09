@@ -3,6 +3,10 @@
   "version": "1.0.0-pre-release",
   "description": "A modern MVC for JavaScript",
   "main": "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/lodestarjs/lodestar.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
